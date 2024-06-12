@@ -1,4 +1,4 @@
-## Car Repurchase Prediction
+## Customer Repurchase Prediction
 
 ### Project Overview
 Develop a classification model to predict customers likely to repurchase a car based on past purchases and various features such as car type, servicing details, and more.
