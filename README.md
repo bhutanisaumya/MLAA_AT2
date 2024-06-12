@@ -13,8 +13,8 @@ The model provides insights into customer behavior, enabling targeted marketing 
 Tools: Python, numpy, pandas, matplotlib, seaborn, altair, scikit-learn.
 
 ### Modelling
-Part A: Trained Support Vector Classifier.
-Part B: Trained K-Nearest Neighbor Classifier.
-Part C: Trained Decision Tree Classifier.
-Part D: Trained Random Forest Classifier.
-Part E: Trained Random Forest with Automated Hyperparameter Tuning.
+1. Part A: Trained Support Vector Classifier.
+2. Part B: Trained K-Nearest Neighbor Classifier.
+3. Part C: Trained Decision Tree Classifier.
+4. Part D: Trained Random Forest Classifier.
+5. Part E: Trained Random Forest with Automated Hyperparameter Tuning.
